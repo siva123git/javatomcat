@@ -11,3 +11,4 @@
 
 include_recipe 'br_intern_javaapp::java'
 include_recipe 'br_intern_javaapp::tomcat'
+include_recipe 'br_intern_javaapp::deploy'
